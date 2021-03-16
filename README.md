@@ -28,7 +28,7 @@ Deep learning tutorial contains four parts: <br />
 
 The instructions for setting up your computer and running the material are given in the "installation_instructions.txt"
 
-### Contact
+## Contact
 For any queries regarding the tutorial please contact:
 
 Ertunc Erdil (ertunc.erdil@vision.ee.ethz.ch), Postdoctoral Researcher, ETH Zurich
