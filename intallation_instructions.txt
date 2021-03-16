@@ -1,0 +1,44 @@
+There are two options for running the materials in this tutorial. 
+
+1 - Running on Google Colab: This option does not require any installation in your local machine and you can run the codes in Google's servers. Materials in the Deep Learning tutorials may require access to GPU since training neural networks on CPUs takes too long. Google Colab is a platform that offers free GPU access. So, this is one of the best and easiest options for people who does not have access to a GPU in their local machine. 
+
+In order to use Google Colab: 
+
+- Upload the "ML_workshop" folder in your Google Drive.
+- Go to either "machine_learning" or "deep_learning" folders.
+- Right click on the notebook file (the ones with .ipynb extension) that you want to run and choose Open with -> Google Colaboratory
+
+2 - Running on local computer:
+
+First you need to install python for the below version or above: Python 3.6.1.
+
+- We recommend installing anaconda as it will by default install most of the libraries required for the tutorial.
+https://docs.anaconda.com/anaconda/install/
+ 
+or, you can install just the python & later install individual libraries seperately.
+You can refer to the below link for installation of python.
+https://realpython.com/installing-python/
+
+#After you install python, you can check the version and path of installed python using below commands.
+python --version
+which python
+
+- The required libraries can be installed with the below commands.
+pip install numpy
+pip install matplotlib
+pip install scipy
+pip install pandas
+pip install -U scikit-learn
+pip install nibabel
+pip install jupyter
+
+- you would need a GPU or graphics-card on your computer to run the above tutorial. You can use the below command to install tensorflow GPU version.
+pip install tensorflow-gpu==1.12.0
+
+incase you do not have a GPU, you can still run the code on your CPU but it might be slower in comparison. Then, you need to use below command to install the tensorflow CPU version.
+pip install tensorflow==1.12.0
+
+- To install cuda (library required to run tensorflow-gpu), please refer to the below link from step 2 onwards.
+https://medium.com/repro-repo/install-cuda-and-cudnn-for-tensorflow-gpu-on-ubuntu-79306e4ac04e
+
+You can start the tutorial after successful installation of all the above libraries.
