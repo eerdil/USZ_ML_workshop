@@ -26,7 +26,9 @@ Deep learning tutorial contains four parts: <br />
 
 ### Running the material
 
-You can download the material by running `git clone https://github.com/eerdil/USZ_ML_workshop` in command line
+* Download the material by running `git clone https://github.com/eerdil/USZ_ML_workshop` in command line.
+
+* Download the data from the link `https://www.dropbox.com/s/i9djv4si1uc7nff/acdc_preprocessed.hdf5?dl=0` and copy into `deep_learning->data` directory.
 
 The instructions for setting up your computer to run the material are given in the "installation_instructions.txt"
 
