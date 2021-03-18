@@ -2,7 +2,7 @@
 
 **Tutorial mainly prepared by: Ender Konukoglu, Christian F. Baumgartner, Krishna Chaitanya** <br />
 
-In this practical session, participants will learn about basics of machine learning and gain hands on experience with applying available tools. <br />
+In this practical session, participants will learn about basics of machine learning and deep learning, and gain hands on experience with applying available tools. <br />
 
 This tutorial consists of two parts: The first part covers basic Machine Learning concepts and the second part is devoted to introduction for Deep Learning. <br />
 
@@ -19,7 +19,7 @@ Machine learning tutorial consists of two parts: <br />
 Deep learning tutorial contains four parts: <br />
 
  * **Part I**: Covers basics of the `tensorflow` library.
- * **Part II**: Due to time constraints, we will skip this part in the workshop. You may study this after the workshop, from the solns directory.
+ * **Part II**: Covers multilayer perceptrons for regression.
  * **Part III**: In this part, you will learn about the convolution operation and how the weights of a convolution kernel can be learned to produce a desired output.
  * **Part IV**: In the last part you will learn how convolution layers along with other types of layers can be combined to build and train a state-of-the-art medical segmentation network. 
 
