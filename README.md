@@ -14,7 +14,7 @@ Machine learning tutorial consists of two parts: <br />
   (c) Supervised learning: toy classification and regression with non-linear models. <br />
 
  * **Part II**: participants will work on real-world data problems: <br />
-  (d) automatic diagnosis of Alzheimer’s disease from brain MRI and age regression from brain MRI. <br />
+  (d) automatic diagnosis of Alzheimer’s disease from brain MRI and age using regression. <br />
 
 Deep learning tutorial contains four parts: <br />
 
